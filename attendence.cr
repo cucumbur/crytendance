@@ -4,7 +4,7 @@ attendees = Array(Hash(String, String)).new
 
 # Matches GET "http://host:port/"
 get "/" do
-  "Hello World!"
+  "Crytendence!"
 end
 
 get "/save" do
